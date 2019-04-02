@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCFilmSatis", "MVCFilmSatis\MVCFilmSatis.csproj", "{4E887378-5D19-4FCF-980C-9FD6E393285E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E887378-5D19-4FCF-980C-9FD6E393285E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E887378-5D19-4FCF-980C-9FD6E393285E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E887378-5D19-4FCF-980C-9FD6E393285E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E887378-5D19-4FCF-980C-9FD6E393285E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C789377-4554-409A-8A3A-527AC106BFB9}
+	EndGlobalSection
+EndGlobal
